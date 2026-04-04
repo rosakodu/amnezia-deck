@@ -1,4 +1,4 @@
-# VPN Deck
+# Amnezia Deck
 
 [English](README.md)
 
