@@ -29,20 +29,10 @@
 
 ## 🎮 Игровой режим (Decky Loader)
 
-1. Установите [Decky Loader](https://github.com/steamdeckhomebrew/decky-loader)
-2. Скачайте плагин: [vpn-deck]([https://github.com/rosakodu/amnezia-deck/releases](https://github.com/MrWaip/vpn-deck/releases))
+1. Установите **[Decky Loader](https://github.com/steamdeckhomebrew/decky-loader)**
+2. Скачайте плагин **[vpn-deck](https://github.com/MrWaip/vpn-deck/releases)**
 3. В настройках Decky Loader включите **режим разработчика**
 4. Установите `.zip` архив плагина
 5. Добавьте конфиг
-
----
-
-## 🚀 Использование плагина
-
-- **Импорт конфига** — кнопка «Импортировать конфиг», выберите файл `.conf`  
-  Имя конфига — до 12 символов (буквы, цифры, `_`, `=`, `+`, `.`, `-`)
-- **Включение / выключение** — переключатель напротив имени конфига
-- **Удаление конфига** — кнопка «Удалить конфиг» (интерфейс будет остановлен)
-- **Ошибки** — раздел «Ошибки»: просмотр истории и очистка
 
 ---
